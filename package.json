@@ -1,5 +1,6 @@
 {
   "name": "nextn",
+  "homepage":"https://github.com/Nithin8055-source/Business_Hub/",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,7 +10,9 @@
     "build": "NODE_ENV=production next build",
     "start": "next start",
     "lint": "next lint",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d dist"
   },
   "dependencies": {
     "@genkit-ai/google-genai": "^1.20.0",
