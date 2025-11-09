@@ -1,0 +1,21 @@
+
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Users can read their own profile, and other users can read public profiles.
+    // Users can only create and update their own profile.
+    match /users/{userId} {
+      allow read: if request.auth != null;
+      allow create, update: if request.auth.uid == userId;
+    }
+
+    // Allow users to read and write messages in rooms they are part of.
+    // This is a basic rule, you might want to add more complex logic
+    // to check if a user is a member of a room.
+    match /rooms/{roomId}/messages/{messageId} {
+        allow read, write: if request.auth != null;
+    }
+  }
+}

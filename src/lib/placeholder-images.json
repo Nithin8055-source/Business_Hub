@@ -1,0 +1,46 @@
+{
+  "placeholderImages": [
+    {
+      "id": "collaboration_room",
+      "description": "A modern office space with people collaborating.",
+      "imageUrl": "https://images.unsplash.com/photo-1630659509482-ea8350aaf4b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjb2xsYWJvcmF0aW9uJTIwb2ZmaWNlfGVufDB8fHx8MTc2MTM5MDc3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "collaboration office"
+    },
+    {
+      "id": "document_intelligence",
+      "description": "A desk with documents, a laptop, and a magnifying glass.",
+      "imageUrl": "https://images.unsplash.com/photo-1758611972678-bc3b29b4718f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkb2N1bWVudCUyMGFuYWx5c2lzfGVufDB8fHx8MTc2MTMyNTc0MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "document analysis"
+    },
+    {
+      "id": "startup_generator",
+      "description": "A lightbulb moment with charts and graphs in the background.",
+      "imageUrl": "https://images.unsplash.com/photo-1590097521029-bed429639ca5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpZGVhJTIwc3RhcnR1cHxlbnwwfHx8fDE3NjEzOTA3NzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "idea startup"
+    },
+    {
+      "id": "invoice_generator",
+      "description": "A person paying an invoice on a tablet.",
+      "imageUrl": "https://images.unsplash.com/photo-1726066012632-717de8552f16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8aW52b2ljZSUyMHBheW1lbnR8ZW58MHx8fHwxNzYxMzkwNzcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "invoice payment"
+    },
+    {
+      "id": "email_generator",
+      "description": "A person writing an email on a laptop.",
+      "imageUrl": "https://images.unsplash.com/photo-1586717791821-3f44a563fa4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3cml0ZSUyMGVtYWlsfGVufDB8fHx8MTc2MTM5MDc3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "write email"
+    },
+    {
+      "id": "accounting_dashboard",
+      "description": "A dashboard with charts and graphs showing financial data.",
+      "imageUrl": "https://images.unsplash.com/photo-1755728806211-589c8603c962?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxmaW5hbmNpYWwlMjBjaGFydHN8ZW58MHx8fHwxNzYxNDAwMTMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "financial charts"
+    },
+    {
+      "id": "auth_background",
+      "description": "Abstract geometric shapes with a professional color palette.",
+      "imageUrl": "https://images.unsplash.com/photo-1663970206579-c157cba7edda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxhYnN0cmFjdCUyMGJhY2tncm91bmR8ZW58MHx8fHwxNzYxMzc3NjI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract background"
+    }
+  ]
+}
